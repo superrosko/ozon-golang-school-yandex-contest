@@ -24,7 +24,7 @@ The MIT License (MIT). Please see [License File][link-license] for more informat
 [link-contributors]: https://github.com/superrosko/ozon-golang-school-yandex-contest/contributors
 [link-github]: https://github.com/superrosko/ozon-golang-school-yandex-contest
 [link-github-tag-version]: https://github.com/superrosko/ozon-golang-school-yandex-contest
-[link-license]: LICENSE
+[link-license]: LICENSE.md
 
 [ico-github-size]: https://img.shields.io/github/languages/code-size/superrosko/ozon-golang-school-yandex-contest.svg?style=flat
 [ico-github-top-language]: https://img.shields.io/github/languages/top/superrosko/ozon-golang-school-yandex-contest.svg?style=flat
